@@ -1,4 +1,4 @@
-# Darkwaves
+# Darkwaves - Ver no twitter
 Esse repositório é apenas umas ancora para o site original e para o git original
 # Site :metal:
 O site  em questão [darkwaves.zone](http://darkwaves.zone/) é o site do evento de segurança que ocorrerá no dia 06/10.
